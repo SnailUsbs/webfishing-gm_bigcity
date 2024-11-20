@@ -8,4 +8,6 @@ This is a 1-to-1 port of Gmod's Big City map. The map is huge—too big to be se
 
 - The map's model is made by the Sketchfab artist "CHANO": https://sketchfab.com/3d-models/gm-big-city-6cfb71e7b08744eeb4c59fbfb4fd9963
 
-- The mod is too big to upload to GitHub, so instead, this GitHub page will be used to host the open-source files. If you want to get the normal build of this map, please use the Thunderstore page.
+- The mod is too big to upload to GitHub, so instead, this GitHub page will be used to host the open-source files. If you want to get the normal build of this map, please use the Thunderstore page: https://thunderstore.io/c/webfishing/p/SnailUSB/GmodBigCity/
+
+- To upload the exported map to github, I had to compress it into a 7z file instead of zip, as that was the only way to get it under the file size limit on here. If you want to install the build from this github page instead of thunderstore, you will have to install it manually, or turn it into a zip file so hook line and sinker can accept it. 
