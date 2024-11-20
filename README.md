@@ -3,6 +3,9 @@ A port of Gmod's big city map
 
 This is a 1-to-1 port of Gmod's Big City map. The map is huge—too big to be seen in full even with unlimited view distance. To compensate for that, there are multiple copies of the NPCs and stores placed near the sewage and canal areas, which is also where you can fish. It still has all of the secret areas, and I made use of the lighthouse and ladders to teleport you on top of three buildings once you use their doors. There are also a few bounce mushrooms placed around the map, including on top of buildings, to help you quickly get wherever you want to go.
 
+![](https://github.com/SnailUsbs/webfishing-gm_bigcity/blob/main/showcase/gmod%20jump.gif)
+![](https://github.com/SnailUsbs/webfishing-gm_bigcity/blob/main/showcase/main%20icon.png)
+
 
 # Important info
 
