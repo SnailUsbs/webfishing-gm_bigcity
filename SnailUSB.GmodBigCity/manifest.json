@@ -1,0 +1,15 @@
+{
+  "Id": "SnailUSB.GmodBigCity",
+  "AssemblyPath": null,
+  "PackPath": "SnailUSB.GmodBigCity.pck",
+  "Dependencies": [
+    "Sulayre.Lure"
+  ],
+  "Metadata": {
+    "Name": "GmodBigCity",
+    "Author": "SnailUSB",
+    "Version": "1.0.0",
+    "Description": "A port of Gmod's big city map",
+    "Homepage": "https://github.com/SnailUsbs/webfishing-gm_bigcity"
+  }
+}
